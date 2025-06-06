@@ -28,8 +28,8 @@
 
 ## 📈 Current Projects
 
-- 🔄 **OpenFinance** – A portfolio management app using open banking APIs  
-- 🎮 **Retro Shooter** – A 2D MonoGame arcade game for desktop  
+- 🔄 [**OpenFinance**](https://github.com/mauriciolechuga/OpenFinance) – A portfolio management app using open banking APIs (Capstone Project)  
+- 🎮 [**Retro Shooter**](https://github.com/mauriciolechuga/RetroShooter) – A 2D MonoGame arcade game for desktop (Final Project)
 
 ---
 
@@ -37,4 +37,4 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mlechuga/+)  
 - 📨 Email: mauriciolechuga@gmail.com  
-- 🛠️ Portfolio: [mauricio.lechuga.cc](mauricio.lechuga.cc)
+- 🛠️ Portfolio: [mauricio.lechuga.cc](https://mauricio.lechuga.cc)
