@@ -19,7 +19,7 @@
 `HTML` `CSS` `JavaScript` `C#` `Dart` `React` `Next.js` `Flutter` `ASP.NET Core`
 
 **Databases & Tools**  
-`PostgreSQL` `SQLite` `Entity Framework` `Supabase`
+`PostgreSQL` `SQLite` `Entity Framework`
 
 **PM & BA Tools**  
 `Jira` `Trello` `Figma` `Confluence` `Looker Studio` `Asana` 
