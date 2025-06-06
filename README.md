@@ -16,8 +16,7 @@
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**  
-`HTML` `CSS` `JavaScript` `C#` `Dart`  
-`React` `Next.js` `Flutter` `ASP.NET Core`
+`HTML` `CSS` `JavaScript` `C#` `Dart` `React` `Next.js` `Flutter` `ASP.NET Core`
 
 **Databases & Tools**  
 `PostgreSQL` `SQLite` `Entity Framework` `Supabase`
